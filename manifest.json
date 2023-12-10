@@ -1,5 +1,5 @@
 {
-  "background_color": "none",
+  "background_color": "#FFFFFF",
   "description": "10000万時間の法則は専門家になるためには、何日がかかるかを計算するサービスです。",
   "dir": "auto",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "scope": "/",
   "short_name": "時間の法則",
   "start_url": "https://ahn-j.github.io/javascript.../",
-  "theme_color": "none",
+  "theme_color": "#FFFFFF",
   "categories": [],
   "screenshots": [],
   "icons": [
