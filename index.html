@@ -11,7 +11,7 @@
   <!-- Service Worker 등록 코드 -->
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/javascript.../pwabuilder-sw.js')
+      navigator.serviceWorker.register('/pwabuilder-sw.js')
         .then(registration => {
           console.log('Service Worker registered with scope:', registration.scope);
         })
